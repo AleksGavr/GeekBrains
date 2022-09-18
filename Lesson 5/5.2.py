@@ -38,7 +38,7 @@ print('Правила игры: На столе лежит 2021 конфета. 
 print('\n' * 2)
 
 step = 28
-total = 100
+total = 2021
 
 player1 = input('Ваше имя?\n')
 player2 = input('Имя соперника?\n')
